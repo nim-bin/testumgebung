@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamaSip"
+             x:Class="XamaSip.MainPage">
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <!-- Place new controls here -->
+
+        <!--<Button HorizontalOptions="Center" VerticalOptions="Center" Clicked="Button_Clicked" Text="ClickMe" />-->
+
+
+
+        <Button Text=""   x:Name="label0" />
+        <Button Text="" x:Name="label1" />
+        <Button Text=""  x:Name="label2" />
+        <Button Text=""  x:Name="label3" />
+
+       
+
+
+
+    </StackLayout>
+
+</ContentPage>
